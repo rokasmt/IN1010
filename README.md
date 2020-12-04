@@ -10,7 +10,7 @@ Mandatory assignments
 
 --oblig 3 Implementation of LinkedList, Stable, Sorted LinkedList
 
---oblig 4 A complex system for doctors, medicines, prescriptions and patients using the classes I have written you have written in oblig2 and 3.
+--oblig 4 A complex system for doctors, medicines, prescriptions and patients using the classes I have written in oblig2 and 3.
 
 --oblig 5 A program that is able to find its way out of a maze by using recursion. 
 
