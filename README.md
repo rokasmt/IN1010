@@ -8,7 +8,7 @@ Mandatory assignments
 
 --oblig 2 A system that keeps track of doctors, patients, prescriptions and medicines.
 
---oblig 3 Implementation of LinkedList, Stable, Sorted LinkedList
+--oblig 3 Implementation of LinkedList, Stable, Sorted LinkedList.
 
 --oblig 4 A complex system for doctors, medicines, prescriptions and patients using the classes I have written in oblig2 and 3.
 
